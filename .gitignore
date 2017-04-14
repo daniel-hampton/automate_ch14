@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# data files for this specific project
+NAICS*
+.idea/
